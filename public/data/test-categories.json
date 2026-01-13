@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cat-signal",
+    "name": "Signal Integrity",
+    "description": "Tests measuring signal quality and transmission characteristics",
+    "display_order": 0
+  },
+  {
+    "id": "cat-power",
+    "name": "Power Consumption",
+    "description": "Tests measuring power efficiency and consumption",
+    "display_order": 1
+  },
+  {
+    "id": "cat-thermal",
+    "name": "Thermal Performance",
+    "description": "Tests measuring heat dissipation and temperature management",
+    "display_order": 2
+  },
+  {
+    "id": "cat-reliability",
+    "name": "Reliability",
+    "description": "Tests measuring durability and long-term performance",
+    "display_order": 3
+  }
+]

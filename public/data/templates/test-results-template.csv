@@ -1,0 +1,19 @@
+test_case_id,passed,value,notes
+tc-sig-1,true,135mV,Excellent eye opening
+tc-sig-2,true,38ps,Very low jitter
+tc-sig-3,true,5e-13,Exceptional BER
+tc-sig-4,true,24dB,Strong SNR
+tc-sig-5,true,2.1dB,Minimal loss
+tc-pwr-1,true,2.1W,Efficient idle
+tc-pwr-2,true,4.8W,Good active power
+tc-pwr-3,true,89%,High efficiency
+tc-pwr-4,true,3.2%,Stable voltage
+tc-thm-1,true,62°C,Safe operating temp
+tc-thm-2,true,3.4W/°C,Good dissipation
+tc-thm-3,true,1250 cycles,Excellent cycling
+tc-thm-4,true,2 spots,Minimal hot spots
+tc-thm-5,true,85%,Efficient cooling
+tc-rel-1,true,620k hours,High MTBF
+tc-rel-2,true,12k cycles,Durable connector
+tc-rel-3,true,Pass,All conditions met
+tc-rel-4,true,Pass,Compliant

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "trans-1",
+    "name": "QSFP28-100G-SR4",
+    "manufacturer": "VendorA",
+    "type": "100G QSFP28"
+  },
+  {
+    "id": "trans-2",
+    "name": "QSFP-DD-400G-DR4",
+    "manufacturer": "VendorB",
+    "type": "400G QSFP-DD"
+  },
+  {
+    "id": "trans-3",
+    "name": "CFP2-100G-LR4",
+    "manufacturer": "VendorC",
+    "type": "100G CFP2"
+  },
+  {
+    "id": "trans-4",
+    "name": "QSFP28-100G-CWDM4",
+    "manufacturer": "VendorD",
+    "type": "100G QSFP28"
+  },
+  {
+    "id": "trans-5",
+    "name": "SFP28-25G-SR",
+    "manufacturer": "VendorE",
+    "type": "25G SFP28"
+  },
+  {
+    "id": "trans-6",
+    "name": "QSFP-DD-400G-SR8",
+    "manufacturer": "VendorF",
+    "type": "400G QSFP-DD"
+  }
+]

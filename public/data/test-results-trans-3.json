@@ -1,0 +1,110 @@
+[
+  {
+    "test_case_id": "tc-sig-1",
+    "passed": true,
+    "value": "108mV",
+    "notes": "Marginal eye opening"
+  },
+  {
+    "test_case_id": "tc-sig-2",
+    "passed": false,
+    "value": "56ps",
+    "notes": "High jitter"
+  },
+  {
+    "test_case_id": "tc-sig-3",
+    "passed": true,
+    "value": "9e-13",
+    "notes": "Acceptable BER"
+  },
+  {
+    "test_case_id": "tc-sig-4",
+    "passed": true,
+    "value": "21dB",
+    "notes": "Acceptable SNR"
+  },
+  {
+    "test_case_id": "tc-sig-5",
+    "passed": false,
+    "value": "3.5dB",
+    "notes": "High loss"
+  },
+  {
+    "test_case_id": "tc-pwr-1",
+    "passed": true,
+    "value": "2.4W",
+    "notes": "Acceptable idle"
+  },
+  {
+    "test_case_id": "tc-pwr-2",
+    "passed": false,
+    "value": "5.8W",
+    "notes": "High power draw"
+  },
+  {
+    "test_case_id": "tc-pwr-3",
+    "passed": true,
+    "value": "84%",
+    "notes": "Adequate efficiency"
+  },
+  {
+    "test_case_id": "tc-pwr-4",
+    "passed": true,
+    "value": "4.8%",
+    "notes": "Acceptable variance"
+  },
+  {
+    "test_case_id": "tc-thm-1",
+    "passed": true,
+    "value": "68°C",
+    "notes": "Near limit"
+  },
+  {
+    "test_case_id": "tc-thm-2",
+    "passed": true,
+    "value": "3.1W/°C",
+    "notes": "Adequate dissipation"
+  },
+  {
+    "test_case_id": "tc-thm-3",
+    "passed": true,
+    "value": "1050 cycles",
+    "notes": "Acceptable cycling"
+  },
+  {
+    "test_case_id": "tc-thm-4",
+    "passed": false,
+    "value": "5 spots",
+    "notes": "Many hot spots"
+  },
+  {
+    "test_case_id": "tc-thm-5",
+    "passed": false,
+    "value": "78%",
+    "notes": "Below target cooling"
+  },
+  {
+    "test_case_id": "tc-rel-1",
+    "passed": true,
+    "value": "510k hours",
+    "notes": "Acceptable MTBF"
+  },
+  {
+    "test_case_id": "tc-rel-2",
+    "passed": true,
+    "value": "10.2k cycles",
+    "notes": "Adequate durability"
+  },
+  {
+    "test_case_id": "tc-rel-3",
+    "passed": true,
+    "value": "Pass",
+    "notes": "Meets requirements"
+  },
+  {
+    "test_case_id": "tc-rel-4",
+    "passed": true,
+    "value": "Pass",
+    "notes": "Compliant"
+  }
+]

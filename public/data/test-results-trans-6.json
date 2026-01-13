@@ -1,0 +1,20 @@
+[
+  {"test_case_id": "tc-sig-1", "passed": true, "value": "128mV", "notes": "Good eye opening"},
+  {"test_case_id": "tc-sig-2", "passed": true, "value": "42ps", "notes": "Low jitter"},
+  {"test_case_id": "tc-sig-3", "passed": true, "value": "6e-13", "notes": "Good BER"},
+  {"test_case_id": "tc-sig-4", "passed": true, "value": "23dB", "notes": "Strong SNR"},
+  {"test_case_id": "tc-sig-5", "passed": true, "value": "2.4dB", "notes": "Low loss"},
+  {"test_case_id": "tc-pwr-1", "passed": true, "value": "2.2W", "notes": "Good idle"},
+  {"test_case_id": "tc-pwr-2", "passed": false, "value": "5.7W", "notes": "Slightly high power"},
+  {"test_case_id": "tc-pwr-3", "passed": true, "value": "87%", "notes": "Good efficiency"},
+  {"test_case_id": "tc-pwr-4", "passed": true, "value": "3.8%", "notes": "Stable voltage"},
+  {"test_case_id": "tc-thm-1", "passed": true, "value": "64°C", "notes": "Good temp"},
+  {"test_case_id": "tc-thm-2", "passed": true, "value": "3.3W/°C", "notes": "Good dissipation"},
+  {"test_case_id": "tc-thm-3", "passed": true, "value": "1180 cycles", "notes": "Good cycling"},
+  {"test_case_id": "tc-thm-4", "passed": true, "value": "2 spots", "notes": "Minimal hot spots"},
+  {"test_case_id": "tc-thm-5", "passed": false, "value": "79%", "notes": "Cooling below target"},
+  {"test_case_id": "tc-rel-1", "passed": true, "value": "580k hours", "notes": "Good MTBF"},
+  {"test_case_id": "tc-rel-2", "passed": true, "value": "11.5k cycles", "notes": "Good durability"},
+  {"test_case_id": "tc-rel-3", "passed": true, "value": "Pass", "notes": "All conditions met"},
+  {"test_case_id": "tc-rel-4", "passed": true, "value": "Pass", "notes": "Compliant"}
+]

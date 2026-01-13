@@ -1,0 +1,20 @@
+[
+  {"test_case_id": "tc-sig-1", "passed": false, "value": "85mV", "notes": "Insufficient eye opening"},
+  {"test_case_id": "tc-sig-2", "passed": false, "value": "78ps", "notes": "Very high jitter"},
+  {"test_case_id": "tc-sig-3", "passed": false, "value": "5e-12", "notes": "Unacceptable BER"},
+  {"test_case_id": "tc-sig-4", "passed": true, "value": "20.2dB", "notes": "Marginal SNR"},
+  {"test_case_id": "tc-sig-5", "passed": false, "value": "4.8dB", "notes": "Excessive loss"},
+  {"test_case_id": "tc-pwr-1", "passed": false, "value": "2.7W", "notes": "High idle power"},
+  {"test_case_id": "tc-pwr-2", "passed": false, "value": "6.5W", "notes": "Excessive power"},
+  {"test_case_id": "tc-pwr-3", "passed": false, "value": "72%", "notes": "Poor efficiency"},
+  {"test_case_id": "tc-pwr-4", "passed": false, "value": "7.5%", "notes": "Unstable voltage"},
+  {"test_case_id": "tc-thm-1", "passed": false, "value": "74°C", "notes": "Overheating"},
+  {"test_case_id": "tc-thm-2", "passed": false, "value": "2.5W/°C", "notes": "Poor dissipation"},
+  {"test_case_id": "tc-thm-3", "passed": true, "value": "1050 cycles", "notes": "Meets minimum"},
+  {"test_case_id": "tc-thm-4", "passed": false, "value": "8 spots", "notes": "Critical hot spots"},
+  {"test_case_id": "tc-thm-5", "passed": false, "value": "68%", "notes": "Inadequate cooling"},
+  {"test_case_id": "tc-rel-1", "passed": true, "value": "520k hours", "notes": "Acceptable MTBF"},
+  {"test_case_id": "tc-rel-2", "passed": false, "value": "8.5k cycles", "notes": "Poor durability"},
+  {"test_case_id": "tc-rel-3", "passed": false, "value": "Fail", "notes": "Multiple failures"},
+  {"test_case_id": "tc-rel-4", "passed": false, "value": "Fail", "notes": "Non-compliant"}
+]

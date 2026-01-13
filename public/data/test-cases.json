@@ -1,0 +1,146 @@
+[
+  {
+    "id": "tc-sig-1",
+    "category_id": "cat-signal",
+    "name": "Eye Diagram Opening",
+    "description": "Measures the eye diagram opening height",
+    "pass_criteria": "Eye height > 100mV",
+    "display_order": 0
+  },
+  {
+    "id": "tc-sig-2",
+    "category_id": "cat-signal",
+    "name": "Jitter Performance",
+    "description": "Measures signal jitter in picoseconds",
+    "pass_criteria": "Jitter < 50ps",
+    "display_order": 1
+  },
+  {
+    "id": "tc-sig-3",
+    "category_id": "cat-signal",
+    "name": "Bit Error Rate",
+    "description": "Measures error rate during transmission",
+    "pass_criteria": "BER < 1e-12",
+    "display_order": 2
+  },
+  {
+    "id": "tc-sig-4",
+    "category_id": "cat-signal",
+    "name": "Signal to Noise Ratio",
+    "description": "Measures SNR in decibels",
+    "pass_criteria": "SNR > 20dB",
+    "display_order": 3
+  },
+  {
+    "id": "tc-sig-5",
+    "category_id": "cat-signal",
+    "name": "Insertion Loss",
+    "description": "Measures signal loss through connector",
+    "pass_criteria": "Loss < 3dB",
+    "display_order": 4
+  },
+  {
+    "id": "tc-pwr-1",
+    "category_id": "cat-power",
+    "name": "Idle Power Draw",
+    "description": "Power consumption at idle state",
+    "pass_criteria": "Power < 2.5W",
+    "display_order": 0
+  },
+  {
+    "id": "tc-pwr-2",
+    "category_id": "cat-power",
+    "name": "Active Power Draw",
+    "description": "Power consumption during active transmission",
+    "pass_criteria": "Power < 5.5W",
+    "display_order": 1
+  },
+  {
+    "id": "tc-pwr-3",
+    "category_id": "cat-power",
+    "name": "Power Efficiency",
+    "description": "Ratio of useful work to power consumed",
+    "pass_criteria": "Efficiency > 85%",
+    "display_order": 2
+  },
+  {
+    "id": "tc-pwr-4",
+    "category_id": "cat-power",
+    "name": "Voltage Stability",
+    "description": "Voltage variance during operation",
+    "pass_criteria": "Variance < 5%",
+    "display_order": 3
+  },
+  {
+    "id": "tc-thm-1",
+    "category_id": "cat-thermal",
+    "name": "Operating Temperature",
+    "description": "Maximum temperature during operation",
+    "pass_criteria": "Temp < 70°C",
+    "display_order": 0
+  },
+  {
+    "id": "tc-thm-2",
+    "category_id": "cat-thermal",
+    "name": "Heat Dissipation Rate",
+    "description": "Rate of heat removal from component",
+    "pass_criteria": "Rate > 3W/°C",
+    "display_order": 1
+  },
+  {
+    "id": "tc-thm-3",
+    "category_id": "cat-thermal",
+    "name": "Thermal Cycling",
+    "description": "Stability across temperature changes",
+    "pass_criteria": "Cycles > 1000",
+    "display_order": 2
+  },
+  {
+    "id": "tc-thm-4",
+    "category_id": "cat-thermal",
+    "name": "Hot Spot Detection",
+    "description": "Identification of localized heating",
+    "pass_criteria": "Hot spots < 3",
+    "display_order": 3
+  },
+  {
+    "id": "tc-thm-5",
+    "category_id": "cat-thermal",
+    "name": "Cooling Efficiency",
+    "description": "Effectiveness of cooling mechanism",
+    "pass_criteria": "Efficiency > 80%",
+    "display_order": 4
+  },
+  {
+    "id": "tc-rel-1",
+    "category_id": "cat-reliability",
+    "name": "MTBF Rating",
+    "description": "Mean time between failures",
+    "pass_criteria": "MTBF > 500k hours",
+    "display_order": 0
+  },
+  {
+    "id": "tc-rel-2",
+    "category_id": "cat-reliability",
+    "name": "Connect/Disconnect Cycles",
+    "description": "Durability of physical connection",
+    "pass_criteria": "Cycles > 10k",
+    "display_order": 1
+  },
+  {
+    "id": "tc-rel-3",
+    "category_id": "cat-reliability",
+    "name": "Environmental Stress",
+    "description": "Performance under humidity/vibration",
+    "pass_criteria": "Pass all conditions",
+    "display_order": 2
+  },
+  {
+    "id": "tc-rel-4",
+    "category_id": "cat-reliability",
+    "name": "EMI Compliance",
+    "description": "Electromagnetic interference levels",
+    "pass_criteria": "EMI < Class A limits",
+    "display_order": 3
+  }
+]

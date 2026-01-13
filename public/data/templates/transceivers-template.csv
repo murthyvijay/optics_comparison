@@ -1,0 +1,3 @@
+id,name,manufacturer,type
+trans-example,Example QSFP28-100G,Example Corp,100G QSFP28
+trans-example-2,Example SFP28-25G,Example Corp,25G SFP28
