@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.0 - GitHub Ready Release
+## Version 2.0.0 - GitHub Ready Release
 
 ### Major Changes
 
