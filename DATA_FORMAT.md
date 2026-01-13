@@ -42,7 +42,7 @@ Defines the transceivers available for comparison.
   {
     "id": "trans-1",
     "name": "QSFP28-100G-SR4",
-    "manufacturer": "Cisco",
+    "manufacturer": "VendorA",
     "type": "100G QSFP28"
   }
 ]
